@@ -1,9 +1,9 @@
 const http = require("http")
 
 function handleRequest(req, res) {
-    console.log(req)
+    console.log(req.url, req.headers, req.method)
 }
 
 http.createServer(handleRequest)
 
-Server.listen(3003)
+server.listen(3003)
