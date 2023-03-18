@@ -1,0 +1,21 @@
+{
+  "name": "back-end-opdracht",
+  "version": "1.0.0",
+  "description": "node-express back-end opdracht",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitsvz/back-end-opdracht.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitsvz/back-end-opdracht/issues"
+  },
+  "homepage": "https://github.com/jitsvz/back-end-opdracht#readme"
+}
