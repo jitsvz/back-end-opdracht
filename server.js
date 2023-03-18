@@ -4,6 +4,6 @@ function handleRequest(req, res) {
     console.log(req.url, req.headers, req.method)
 }
 
-http.createServer(handleRequest)
+const server = http.createServer(handleRequest)
 
 server.listen(3003)
