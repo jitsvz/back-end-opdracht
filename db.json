@@ -1,82 +1,95 @@
 {
-    "games": [
-        {
-          "name": "FIFA 23",
-          "category": "Sport",
-          "price": 59.99,
-          "image": "images/item1.jpg"
-        },
-        {
-          "name": "Red Dead Redemption 2",
-          "category": "Actie-avontuur",
-          "price": 54.99,
-          "image": "images/item2.jpg"
-        },
-        {
-          "name": "The Last of Us Part II",
-          "category": "Actie-avontuur",
-          "price": 39.99,
-          "image": "images/item3.jpg"
-        },
-        {
-          "name": "Grand Theft Auto V",
-          "category": "Actie",
-          "price": 34.99,
-          "image": "images/item4.jpg"
-        },
-        {
-          "name": "The Legend of Zelda: Breath of the Wild",
-          "category": "Actie-avontuur",
-          "price": 57.95,
-          "image": "image/item5.jpg"
-        },
-        {
-          "name": "DOOM eternal",
-          "category": "Actie",
-          "price": 39.99,
-          "image": "image/item6.jpg"
-        },
-        {
-          "name": "Mario Kart 8 Deluxe",
-          "category": "Racen ",
-          "price": 49.95,
-          "image": "image/item7.jpg"
-        },
-        {
-          "name": "Hogwarts Legacy",
-          "category": "Actie-RPG",
-          "price": 54.95,
-          "image": "image/item8.jpg"
-        },
-        {
-          "name": "Satisfactory",
-          "category": "Sandbox",
-          "price": 29.99,
-          "image": "image/item9.jpg"
-        },
-        {
-          "name": "Hades",
-          "category": "Indie",
-          "price": 24.99,
-          "image": "image/item10.jpg"
-        },
-        {
-          "name": "Elden Ring",
-          "category": "Actie-RPG",
-          "price": 59.99,
-          "image": "image/item11.jpg"
-        },
-        {
-          "name": "Forspoken",
-          "category": "Actie-RPG",
-          "price": 69.99,
-          "image": "image/item12.jpg"
-        },
-        {
-          "name": "Sekiro Shadows Die Twice",
-          "category": "Actie-avontuur",
-          "price": 59.99,
-          "image": "image/item13.jpg"
-        }
-    ]
+  "games": [
+      {
+        "id": 1,
+        "name": "FIFA 23",
+        "category": "Sport",
+        "price": 59.99,
+        "image": "images/item1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Red Dead Redemption 2",
+        "category": "Actie-avontuur",
+        "price": 54.99,
+        "image": "images/item2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "The Last of Us Part II",
+        "category": "Actie-avontuur",
+        "price": 39.99,
+        "image": "images/item3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Grand Theft Auto V",
+        "category": "Actie",
+        "price": 34.99,
+        "image": "images/item4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "category": "Actie-avontuur",
+        "price": 57.95,
+        "image": "images/item5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "DOOM eternal",
+        "category": "Actie",
+        "price": 39.99,
+        "image": "images/item6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Mario Kart 8 Deluxe",
+        "category": "Racen ",
+        "price": 49.95,
+        "image": "images/item7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Hogwarts Legacy",
+        "category": "Actie-RPG",
+        "price": 54.95,
+        "image": "images/item8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Satisfactory",
+        "category": "Sandbox",
+        "price": 29.99,
+        "image": "images/item9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Hades",
+        "category": "Indie",
+        "price": 24.99,
+        "image": "images/item10.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Elden Ring",
+        "category": "Actie-RPG",
+        "price": 59.99,
+        "image": "images/item11.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Forspoken",
+        "category": "Actie-RPG",
+        "price": 69.99,
+        "image": "images/item12.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Sekiro Shadows Die Twice",
+        "category": "Actie-avontuur",
+        "price": 59.99,
+        "image": "images/item13.jpg"
+      }
+  ]
 }
