@@ -20,6 +20,7 @@ router.get('/games/:id', (req, res, next) => {
 
 router.delete('/games/:id', (req, res, next) => {
     const id = parseInt(req.params.id)
+    const games = db.games
     const index = db.games.findIndex(g => g.id == id)
     let deleteGame = {}
     let responseCode = 404
